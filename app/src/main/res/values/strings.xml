@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">kotlin</string>
+
+    <string name="titel1">angular</string>
+    <string name="titel2">c</string>
+    <string name="titel3">cmas</string>
+    <string name="titel4">java</string>
+    <string name="titel5">javascript</string>
+
+
+
+</resources>
